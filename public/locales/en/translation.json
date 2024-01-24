@@ -1,0 +1,117 @@
+{
+  "classbon": "classbon",
+  "register":{
+    "title": "Online Education Platform",
+    "introMessage": "Register to use the features of Classbon online education platform",
+    "register": "Register",
+    "mobile": "Mobile",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "alreadyRegistered": "Already registered?",
+    "signin": "Sign in",
+    "saving": "Saving ...",
+    "successOperation": "Your changes have been successfully saved",
+    "validation": {
+      "mobileRequired": "Mobile is required",
+      "passwordRequired": "Password is required",
+      "repeatPasswordRequired": "Repeat password  is required",
+      "mobileLength": "Mobile number must be 11 digits",
+      "notMatching": "Password do not match",
+      "PasswordTooShort": "Passwords must be at least 6 characters",
+      "DuplicateUserName": "This username is already taken"
+    }
+  },
+  "login": {
+    "title": "Online Education Platform",
+    "introMessage": "To log in, you need to use your mobile phone and password",
+    "signingin": "Signing in ...",
+    "signin": "Sign in",
+    "register": "Register",
+    "mobile": "Mobile",
+    "password": "Password",
+    "areNotRegistered": "You're not registered?",
+    "validation": {
+      "mobileRequired": "Mobile is required",
+      "mobileLength": "Mobile number must be 11 digits",
+      "passwordRequired": "Password is required",
+      "IncorrectUserNameOrPassword": "The username or password is incorrect"
+    }
+  },
+  "mainLayout": {
+    "sidebar": {
+      "subtitle": "Online Education Platform",
+      "courseManagement": "Course Management",
+      "allCourses": "All Courses",
+      "coursesCategory": "Courses Category",
+      "courseDiscount": "Course Discount",
+      "userManagement": "User Management",
+      "teacherManagement": "Teacher Management",
+      "studentManagement": "Student Management",
+      "blogManagement": "BlogManagement",
+      "tagManagement": "TagManagement",
+      "postManagement": "PostManagement"
+    }
+  },
+  "courses": {
+    "newCourse": "Add a new course",
+    "info": "Receiving information...",
+    "category": "Add a new category"
+  },
+  "course": {
+    "duration": "hours",
+    "reviews": "reviews",
+    "chapter": "chapters",
+    "lecture": "lectures",
+    "rate": "of 5"
+  },
+  "details": {
+    "time": "learning time",
+    "level": "course level",
+    "numOfChapters": "number of chapters",
+    "numOfLectures": "number of lectures",
+    "numOfReviews": "number of reviews",
+    "averageReviewRating": "average rating"
+  },
+  "categories": {
+    "name": "name",
+    "operation": "operation"
+  },
+  "page": {
+    "previous": "previous",
+    "next": "next"
+  },
+  "modal": {
+    "delete": "delete",
+    "confirm": "Are you sure you want to delete this category?",
+    "refuse": "refuse"
+  },
+  "toastify": {
+    "deleting": "deleting...",
+    "success": "operation was successfully",
+    "DeleteIsNotPossible": "It is not possible to delete this category",
+    "DuplicateCategory": "The category is duplicate"
+  },
+  "updateCategory": {
+    "name": "name",
+    "close": "close",
+    "submit": "submit changes",
+    "saving": "saving information...",
+    "fail": "error in operation",
+    "validation": {
+      "nameRequired": "name is required"
+    }
+  },
+  "notFound": {
+    "pageNotFound": "The requested page could not be found",
+    "notExist": "The page does not exist",
+    "mainPage": "Return to main page"
+  },
+  "unhandled": {
+    "serverError": "Server error",
+    "notPossible": "It is not possible to process your request from the server",
+    "mainPage": "Return to main page"
+  },
+  "logout": {
+    "logout": "Logout"
+  }
+}
